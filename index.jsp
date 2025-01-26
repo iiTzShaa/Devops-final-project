@@ -8,6 +8,7 @@
     <h1>Welcome to My JSP Application</h1>
     <form method="post" action="welcome.jsp">
         Enter your name: <input type="text" name="username" required>
+        <br><br>
         <button type="submit">Submit</button>
         <a href="https://www.google.com/">Go to Another Page</a>
     </form>
