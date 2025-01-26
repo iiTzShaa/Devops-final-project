@@ -9,6 +9,7 @@
     <form method="post" action="welcome.jsp">
         Enter your name: <input type="text" name="username" required>
         <button type="submit">Submit</button>
+        <a href="https://www.google.com/">Go to Another Page</a>
     </form>
 </body>
 </html>
